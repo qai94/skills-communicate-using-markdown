@@ -20,6 +20,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 2: Add an image
+![My Image](https://octodex.github.com/images/original.png)
 
 _Great job adding headers to the file :sparkles:_
 
